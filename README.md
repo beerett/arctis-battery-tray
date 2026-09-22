@@ -4,6 +4,8 @@ Systray battery indicator for the SteelSeries Arctis Nova 7. Shows the
 battery percentage as two digits in the tray icon: green while charging,
 red while discharging, gray (`--`) when the headset is offline.
 
+<img width="258" height="116" alt="image" src="https://github.com/user-attachments/assets/c023bbf7-7248-412e-ad9b-8a58777457f4" />
+
 ## Requirements
 
 - Python 3
